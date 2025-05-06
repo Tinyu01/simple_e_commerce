@@ -451,14 +451,14 @@
 
       <div class="griditem">
         <span class="badge">New</span>
-        <img src="/api/placeholder/200/200" alt="Fashion Accessory">
+        <img src="c3.png" alt="Fashion Accessory">
         <h2>Designer Watch</h2>
         <h3>R 1200.00</h3>
         <a href="cart.php?add=fashion3">Add to Cart</a>
       </div>
 
       <div class="griditem">
-        <img src="/api/placeholder/200/200" alt="Fashion Item">
+        <img src="c4.png" alt="Fashion Item">
         <h2>Leather Jacket</h2>
         <h3>R 1500.00</h3>
         <a href="cart.php?add=fashion4">Add to Cart</a>
